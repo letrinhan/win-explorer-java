@@ -1,4 +1,10 @@
-# win-explorer-java
+# Tên sinh viên: Lê Trí Nhân
+# Lớp: 17IT2
+# MSSV: 17IT081
+# Câu 1: Thiết kế giao diện phần mềm file Explore.
+# Câu 2: Thực hiện chức năng dán(paste) 1 tập tin.
+# Chức năng thêm vào: open file
+
 1. Giới thiệu FileExplorer
 	1.1. Chạy FileExplorer.java.
 	1.2. Cửa sổ của File Explorer
