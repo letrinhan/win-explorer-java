@@ -3,7 +3,8 @@
 # MSSV: 17IT081
 # Câu 1: Thiết kế giao diện phần mềm file Explore.
 # Câu 2: Thực hiện chức năng dán(paste) 1 tập tin.
-# Chức năng thêm vào: open file
+# Chức năng thêm vào: open file, copy và dán 1 thư mục bất kì
+
 
 1. Giới thiệu FileExplorer
 	1.1. Chạy FileExplorer.java.
