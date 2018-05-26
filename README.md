@@ -5,12 +5,14 @@
 # Câu 2: Thực hiện chức năng dán(paste) 1 tập tin.
 # Chức năng thêm vào: open file, copy và dán 1 thư mục bất kì
 # Cách chạy code
-   1.Tải project và giải nén project từ github
-   2.Mở cmd
-   3.Dùng lệnh cd chuyển đến thư mục chứa source code
-     ví dụ: C:\Users\PC\Desktop\thigiuaky\src
-   4.Biên dịch bằng lệnh javac: javac\explorer.java
-   5.Chạy bằng lệnh java java.explorer
+               1.Tải project và giải nén project từ github
+	       
+               2.Mở cmd
+		
+               3.Dùng lệnh cd chuyển đến thư mục chứa source code
+                ví dụ: C:\Users\PC\Desktop\thigiuaky\src
+               4.Biên dịch bằng lệnh javac: javac\explorer.java
+                5.Chạy bằng lệnh java java.explorer
 # Giới thiệu FileExplorer
 	1.1. Chạy FileExplorer.java.
 	1.2. Cửa sổ của File Explorer
