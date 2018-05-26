@@ -25,7 +25,7 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.awt.FlowLayout;
 
-public class FileExplorer {
+public class explorer {
 
 	public static final String APP_TITLE = "FileBro";
 	private Desktop desktop;
@@ -278,7 +278,7 @@ public class FileExplorer {
 				}
 			});
 			btnNewButton_1.setIcon(
-					new ImageIcon(FileExplorer.class.getResource("/com/sun/javafx/scene/web/skin/Undo_16x16_JFX.png")));
+					new ImageIcon(explorer.class.getResource("/com/sun/javafx/scene/web/skin/Undo_16x16_JFX.png")));
 			btnNewButton_1.setHorizontalAlignment(SwingConstants.LEFT);
 			panel.add(btnNewButton_1);
 
@@ -303,7 +303,7 @@ public class FileExplorer {
 				}
 			});
 			btnNewButton.setIcon(
-					new ImageIcon(FileExplorer.class.getResource("/com/sun/javafx/scene/web/skin/Redo_16x16_JFX.png")));
+					new ImageIcon(explorer.class.getResource("/com/sun/javafx/scene/web/skin/Redo_16x16_JFX.png")));
 			panel.add(btnNewButton);
 			splitPane.setBounds(5, 0, 965, 373);
 			gui.add(splitPane);
@@ -550,7 +550,7 @@ public class FileExplorer {
 				JFrame f = new JFrame(APP_TITLE);
 				f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-				FileExplorer FileBrowser = new FileExplorer();
+				explorer FileBrowser = new FileExplorer();
 				f.setContentPane(FileBrowser.getGui());
 
 				try {
